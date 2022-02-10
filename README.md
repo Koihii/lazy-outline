@@ -6,7 +6,7 @@ A simple, lightweight plugin for outlining stuffs to your terminal.
 
 Basically, the plugin will work like this image.
 
-![lazy-outline-capture](./images/lazy-outline-capture)
+![lazy-outline-capture](./images/lazy-outline-capture.png)
 
 ## Installation
 
