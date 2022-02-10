@@ -42,7 +42,7 @@ const LOGS = [
 lazyOutline(LOGS)
 ```
 
-Follow [this link](https://github.com/Koihii/lazy-outline/blob/main/test/testCases.js)
+Follow [this link](https://github.com/Koihii/lazy-outline/blob/main/test/testCases.js) to see sample files.
 
 `lazy-outline` has these configuration options:
 
