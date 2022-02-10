@@ -15,6 +15,10 @@
     "prettify": "prettier --write .",
     "prepare": "husky install"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koihii/lazy-outline.git"
+  },
   "keywords": [
     "termnial",
     "nodejs",
